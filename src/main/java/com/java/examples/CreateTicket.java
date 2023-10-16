@@ -1,4 +1,4 @@
-package com.javacreed.examples.maven;
+package com.java.examples;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
