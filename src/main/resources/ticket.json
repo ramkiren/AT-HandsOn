@@ -1,0 +1,223 @@
+[
+  {
+    "modifiedTime": "2023-10-11T14:30:00.000Z",
+    "subCategory": "Technical Issue",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Website not loading in Firefox",
+    "dueDate": "2023-10-20T17:00:00.000Z",
+    "departmentId": "119027000094930177",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-10T12:15:30.000Z",
+    "subCategory": "Account Access",
+    "hasScheduledReply": true,
+    "statusType": "Open",
+    "subject": "Password reset not working",
+    "dueDate": "2023-10-17T15:30:00.000Z",
+    "departmentId": "119027000094930178",
+    "channel": "Email",
+    "onholdTime": null,
+    "language": "Spanish"
+  },
+  {
+    "modifiedTime": "2023-10-09T09:45:20.000Z",
+    "subCategory": "Billing Issue",
+    "hasScheduledReply": false,
+    "statusType": "Resolved",
+    "subject": "Incorrect billing charges on my account",
+    "dueDate": null,
+    "departmentId": "119027000094930179",
+    "channel": "Phone",
+    "onholdTime": "2023-10-08T14:00:00.000Z",
+    "language": "French"
+  },
+  {
+    "modifiedTime": "2023-10-08T17:20:45.000Z",
+    "subCategory": "Product Inquiry",
+    "hasScheduledReply": false,
+    "statusType": "Closed",
+    "subject": "Product demo request for our team",
+    "dueDate": null,
+    "departmentId": "119027000094930180",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-07T19:45:30.000Z",
+    "subCategory": "Technical Support",
+    "hasScheduledReply": true,
+    "statusType": "Open",
+    "subject": "Network connectivity issues in the office",
+    "dueDate": "2023-10-15T14:00:00.000Z",
+    "departmentId": "119027000094930181",
+    "channel": "Email",
+    "onholdTime": null,
+    "language": "German"
+  },
+  {
+    "modifiedTime": "2023-10-06T14:00:15.000Z",
+    "subCategory": "Account Access",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Locked out of my account, need assistance",
+    "dueDate": "2023-10-13T16:30:00.000Z",
+    "departmentId": "119027000094930182",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-05T10:15:20.000Z",
+    "subCategory": "Billing Issue",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Billing statement discrepancy, need clarification",
+    "dueDate": "2023-10-12T12:00:00.000Z",
+    "departmentId": "119027000094930183",
+    "channel": "Phone",
+    "onholdTime": null,
+    "language": "Spanish"
+  },
+  {
+    "modifiedTime": "2023-10-04T16:45:35.000Z",
+    "subCategory": "Product Inquiry",
+    "hasScheduledReply": true,
+    "statusType": "Open",
+    "subject": "Information about your latest product release",
+    "dueDate": "2023-10-19T10:00:00.000Z",
+    "departmentId": "119027000094930184",
+    "channel": "Email",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-03T20:55:15.000Z",
+    "subCategory": "Technical Support",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Software installation issues on macOS",
+    "dueDate": "2023-10-10T12:00:00.000Z",
+    "departmentId": "119027000094930185",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "German"
+  },
+
+  {
+    "modifiedTime": "2023-10-11T14:30:00.000Z",
+    "subCategory": "Technical Issue",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Website not loading in Firefox",
+    "dueDate": "2023-10-20T17:00:00.000Z",
+    "departmentId": "119027000094930177",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-10T12:15:30.000Z",
+    "subCategory": "Account Access",
+    "hasScheduledReply": true,
+    "statusType": "Open",
+    "subject": "Password reset not working",
+    "dueDate": "2023-10-17T15:30:00.000Z",
+    "departmentId": "119027000094930178",
+    "channel": "Email",
+    "onholdTime": null,
+    "language": "Spanish"
+  },
+  {
+    "modifiedTime": "2023-10-09T09:45:20.000Z",
+    "subCategory": "Billing Issue",
+    "hasScheduledReply": false,
+    "statusType": "Resolved",
+    "subject": "Incorrect billing charges on my account",
+    "dueDate": null,
+    "departmentId": "119027000094930179",
+    "channel": "Phone",
+    "onholdTime": "2023-10-08T14:00:00.000Z",
+    "language": "French"
+  },
+  {
+    "modifiedTime": "2023-10-08T17:20:45.000Z",
+    "subCategory": "Product Inquiry",
+    "hasScheduledReply": false,
+    "statusType": "Closed",
+    "subject": "Product demo request for our team",
+    "dueDate": null,
+    "departmentId": "119027000094930180",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-07T19:45:30.000Z",
+    "subCategory": "Technical Support",
+    "hasScheduledReply": true,
+    "statusType": "Open",
+    "subject": "Network connectivity issues in the office",
+    "dueDate": "2023-10-15T14:00:00.000Z",
+    "departmentId": "119027000094930181",
+    "channel": "Email",
+    "onholdTime": null,
+    "language": "German"
+  },
+  {
+    "modifiedTime": "2023-10-06T14:00:15.000Z",
+    "subCategory": "Account Access",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Locked out of my account, need assistance",
+    "dueDate": "2023-10-13T16:30:00.000Z",
+    "departmentId": "119027000094930182",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-05T10:15:20.000Z",
+    "subCategory": "Billing Issue",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Billing statement discrepancy, need clarification",
+    "dueDate": "2023-10-12T12:00:00.000Z",
+    "departmentId": "119027000094930183",
+    "channel": "Phone",
+    "onholdTime": null,
+    "language": "Spanish"
+  },
+  {
+    "modifiedTime": "2023-10-04T16:45:35.000Z",
+    "subCategory": "Product Inquiry",
+    "hasScheduledReply": true,
+    "statusType": "Open",
+    "subject": "Information about your latest product release",
+    "dueDate": "2023-10-19T10:00:00.000Z",
+    "departmentId": "119027000094930184",
+    "channel": "Email",
+    "onholdTime": null,
+    "language": "English"
+  },
+  {
+    "modifiedTime": "2023-10-03T20:55:15.000Z",
+    "subCategory": "Technical Support",
+    "hasScheduledReply": false,
+    "statusType": "Open",
+    "subject": "Software installation issues on macOS",
+    "dueDate": "2023-10-10T12:00:00.000Z",
+    "departmentId": "119027000094930185",
+    "channel": "Web",
+    "onholdTime": null,
+    "language": "German"
+  }
+
+
+
+
+]
