@@ -16,8 +16,8 @@ public class ticketServlet {
     @Test
     @Given("the Ticket Details API is available")
     public void setup() {
-        RestAssured.baseURI = "http://localhost"; // Replace with your server's URL
-        RestAssured.port = 9090; // Replace with your server's port
+        RestAssured.baseURI = "http://localhost";
+        RestAssured.port = 9090;
     }
     @Test
     @When("I send a GET request to the API")
@@ -25,7 +25,7 @@ public class ticketServlet {
         response = given()
                 .contentType(ContentType.JSON)
                 .when()
-                .get("/ticketDetails"); // Replace with your actual servlet mapping
+                .get("/ticketDetails");
     }
     @Test
     @Then("the response status code should be {int}")
@@ -39,7 +39,7 @@ public class ticketServlet {
         response.then()
                 .contentType(ContentType.JSON)
                 .body(
-                        "$", hasSize(greaterThan(0)) // Check if the response contains at least one item
+                        "$", hasSize(greaterThan(0))
                 );
     }
 }

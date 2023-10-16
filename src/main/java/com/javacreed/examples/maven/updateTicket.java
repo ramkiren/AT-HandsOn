@@ -13,12 +13,9 @@ public class updateTicket extends HttpServlet {
         String description = request.getParameter("description");
         String priority = request.getParameter("priority");
 
-        // Check if the ticket ID exists and perform an update
-        if (ticketId != null && !ticketId.isEmpty()) {
-            // Perform the ticket update logic here
-            // You can update the ticket in a database or any other storage system
 
-            // For demonstration purposes, let's assume the update was successful
+        if (ticketId != null && !ticketId.isEmpty()) {
+
             response.setStatus(HttpServletResponse.SC_OK);
             response.getWriter().write("Ticket updated successfully");
         } else {

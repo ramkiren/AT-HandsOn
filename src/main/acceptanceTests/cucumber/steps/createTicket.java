@@ -18,9 +18,7 @@ public class createTicket {
 
     @Given("I am on the ticket creation page")
     public void iAmOnTheTicketCreationPage() {
-        // You can implement navigation to the ticket creation page here if applicable.
-        // In a real application, this step may depend on your web application structure.
-        // You can use a headless browser like Selenium for UI testing or simply make a GET request.
+
     }
 
     @When("I fill in the following details:")
@@ -40,10 +38,7 @@ public class createTicket {
 
     }
 
-//    @And("I submit the form")
-//    public void iSubmitTheForm() {
-//        // The form submission is handled in the "When" step.
-//    }
+
 
     @Then("I should see the message {string}")
     public void iShouldSeeTheMessage(String expectedMessage) {
@@ -52,11 +47,7 @@ public class createTicket {
         Assert.assertEquals(expectedMessage, responseBody);
         response=null;
     }
-//    @Given("I am on the ticket creation page")
-//    public void iAmOnTheTicketCreationPage() {
-//        // Implement navigation to the ticket creation page if applicable.
-//        // In a real application, this step may depend on your web application structure.
-//    }
+
 
     @When("I fill in the following details with missing or invalid information:")
     public void iFillInTheFollowingDetailsWithMissingOrInvalidInformation(io.cucumber.datatable.DataTable dataTable) {

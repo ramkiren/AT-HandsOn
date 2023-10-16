@@ -30,8 +30,7 @@ public class updateTicket {
 
     @Given("I am on the ticket update page")
     public void givenIAmOnTicketUpdatePage() {
-        // This step is included for consistency with the Cucumber feature file
-        // You can skip this step in your test class
+
     }
 
 
